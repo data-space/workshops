@@ -1,2 +1,3 @@
-# workshops
-Notes, links and stuff for Data Lab workshops
+# Data Lab Workshops
+
+This page contains some links and notes supporting Data Lab workshops. 
